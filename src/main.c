@@ -5,6 +5,5 @@
 int main() 
 {
 	Hello();
-	system("PAUSE");
 	return 0;
 }
